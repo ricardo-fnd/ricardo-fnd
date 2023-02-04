@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Currently developing an application using NextJS ⚡, Typescript 📑 and Storybook 📖.
 <!--
 **ricardo-fnd/ricardo-fnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
