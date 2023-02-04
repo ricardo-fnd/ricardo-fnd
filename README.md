@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Currently developing a monorepo using NextJS ⚡, Typescript 📑 and Storybook 📖.
+Currently developing a monorepo using NextJS ⚡, Typescript 📑 and Storybook 📖 at _ubbu - code literacy_
 Using vercel to deploy all apps.
 
 - **Reach me at: https://www.linkedin.com/in/ricardofndias/**
